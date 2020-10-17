@@ -8,7 +8,7 @@ blog:
   primary:
     endpoint: "http://crud-service-ocp-tasks.b9ad.pro-us-east-1.openshiftapps.com"
   secondary:
-    endpoint: "http://crud-service-ocp-tasks.b9ad.pro-us-east-1.openshiftapps.com"
+    endpoint: "http://crud-service1-ocp-tasks.b9ad.pro-us-east-1.openshiftapps.com"
 
 # applies to all
 spring:
