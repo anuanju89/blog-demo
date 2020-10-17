@@ -82,6 +82,8 @@ spring:
     console:
       enabled: true
       path: /h2
+      settings:
+        web-allow-others: true
 
 # 'cloud' profile
 # These settings are used on PCF only.
